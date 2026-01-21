@@ -1,2 +1,2 @@
 This is the version 1 of my software
-This is another version to check pull feature 
+This is another version to check pull feature.
